@@ -1,2 +1,3 @@
-# 3D-Big-Ben-Tower-opengl-3.3-
-BIG Ben Tower is an monumental Gothic Structure . I used Opengl 3.3 and C++ here to replicate my version of  BIG Ben Tower and Westminister Bridge . Several Complex Shapes Like Minar as lamppost (created as Bezier Curve),  Bridge Shape As Half - TORUS . This was done a project delegated to us in CSE  4208 or computer Graphics !!
+# Graphics-Project-
+Night View
+![Screenshot (322)](https://github.com/AbirHasanOnowy/Graphics-Project-/assets/102896787/d5669176-b709-4c98-91fa-8979b9185a8c)
